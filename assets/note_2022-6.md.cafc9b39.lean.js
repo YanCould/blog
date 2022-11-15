@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,a as o}from"./app.f3266ba5.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/2022-6.md"}'),s={name:"note/2022-6.md"},n=o("p",null,"vue\u7684\u9762\u8BD5\u9898",-1),r=[n];function c(_,d,p,i,l,m){return t(),a("div",null,r)}var h=e(s,[["render",c]]);export{u as __pageData,h as default};
